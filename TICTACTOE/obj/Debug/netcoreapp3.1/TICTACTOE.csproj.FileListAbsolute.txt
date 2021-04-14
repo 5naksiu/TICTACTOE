@@ -1,0 +1,15 @@
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.exe
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.deps.json
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.runtimeconfig.json
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.runtimeconfig.dev.json
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.dll
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.pdb
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.Form1.resources
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.csproj.GenerateResource.cache
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.AssemblyInfoInputs.cache
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.AssemblyInfo.cs
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.dll
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.pdb
+C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.genruntimeconfig.cache
