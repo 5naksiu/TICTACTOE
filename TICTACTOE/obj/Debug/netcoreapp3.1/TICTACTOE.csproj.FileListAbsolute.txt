@@ -13,3 +13,4 @@ C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTAC
 C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.dll
 C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.pdb
 C:\Users\Przemek\source\repos\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.genruntimeconfig.cache
+C:\Users\Przemek\source\repos\TIcTacToe\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.Form2.resources
